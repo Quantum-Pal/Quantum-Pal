@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Romin</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quantum-pal&label=Profile%20views&color=0e75b6&style=flat" alt="quantum-pal" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="quantum-pal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quantum-pal" alt="quantum-pal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rominban108" target="blank"><img src="https://img.shields.io/twitter/follow/rominban108?logo=twitter&style=for-the-badge" alt="rominban108" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
